@@ -1,1 +1,1 @@
-# 存放VSCode 設定檔
+# 存放 VSCode 設定檔
